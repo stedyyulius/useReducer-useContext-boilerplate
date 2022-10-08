@@ -1,8 +1,9 @@
-import './App.css';
-
 import { GlobalContext } from './context/ContextProvider';
+
 import { ChangeData } from './components/ChangeData';
 import { Data } from './components/Data';
+
+import './App.css';
 
 function App() {
 
